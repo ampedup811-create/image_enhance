@@ -1,0 +1,8 @@
+# Image Enhancement Script Dependencies
+# Compatible with CachyOS (Arch-based Linux)
+# Install with: pip install -r requirements.txt
+
+opencv-python>=4.8.0
+numpy>=1.24.0
+mediapipe>=0.10.0
+Pillow>=10.0.0
